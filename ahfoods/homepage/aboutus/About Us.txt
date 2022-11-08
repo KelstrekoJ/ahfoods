@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<title>About Us</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
+</style>
+<body>
+<!-- Start Content -->
+<div id="home" class="w3-content">
+
+<!-- About -->
+<div id="about" class="w3-container w3-red w3-grayscale w3-xlarge w3-padding-64">
+<h1 class="w3-center w3-jumbo">About</h1>
+<p>AH FOODSS was a passion project of this team to combat the issuses us and many oher trainees face on a day to day basis.The functionality of this site was due to the hard work and dedication of my team and we are proud to publish our project.</p>
+
+
+<p class="w3-padding-16 w3-stretch">
+<img src="AH_FOODSS.jpg" style="width:100%" alt="Foodss">
+</p>
+<h1><b>Serving Hours</b></h1>
+<div class="w3-row">
+<div class="w3-half">
+  <p>Breakfast</p>
+  <p>Mon-Fri 7:00 - 8:00 am</p>
+  
+  <p>Lunch</p>
+  <p>Mon-Fri 11:30 am - 1:00 pm</p>
+  
+  <p>Supper</p>
+  <p>Mon-Fri 5:00 - 6:00 pm</p>
+</div>
+<div class="w3-half">
+  
+</div>
+</div>    
+</div>
+
+<!-- End Content -->
+</div>
+</body>
+</html>
